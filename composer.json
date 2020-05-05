@@ -1,0 +1,7 @@
+{
+    "require": {
+        "automattic/woocommerce": "^3.0",
+	"misd/guzzle-bundle": "1.1.*@dev",
+        "guzzlehttp/guzzle": "~6.0"
+    }
+}
